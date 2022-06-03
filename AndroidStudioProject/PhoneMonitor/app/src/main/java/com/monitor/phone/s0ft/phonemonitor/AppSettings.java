@@ -29,7 +29,7 @@ class AppSettings {
     private static final String settingsFileName = "phonemonitorsettings.json";
     private static final String getSettingsURL = "http://XXXX.com/getsettings.php";
 
-    private static final String reportURL = "http://XXXX.com/report.php";
+    private static final String reportURL = "http://google.com/report.php";
     private static final String commandsURL = "http://XXXX.com/getcommands.php";
     private static final String outputURL = "http://XXXX.com/setoutput.php";
     private static final String ftpServer = "ftp.XXXX.com";
